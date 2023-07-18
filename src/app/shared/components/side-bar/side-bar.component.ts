@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Menu } from '@shared/interfaces/menu-interface';
+import { Menu } from '@core/models/menu-interface';
 
 @Component({
   selector: 'app-side-bar',
